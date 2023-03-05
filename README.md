@@ -25,6 +25,7 @@ If you run this application in the terminal it use inquirer package. By using th
 ## Installation
 
 `npm init`
+`npm install jest`
 
 ## License
 
