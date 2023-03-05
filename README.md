@@ -6,14 +6,14 @@ This is a working Node.js command-line application. This application takes in in
   
   ## Table of Contents
 
-- [User Story](#user story)
+- [User-Story](#user-story)
 - [Installation](#installation)
 - [License](#license)
 - [Contribute](#contribute)
 - [Test](#test)
 - [Questions](#questions)
 
-## User Story
+## User-Story
 ```text
 As a Manager 
 I WANT to generate a webpage that displays my team's basic info
