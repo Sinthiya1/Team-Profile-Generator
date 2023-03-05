@@ -7,7 +7,7 @@ This is a working Node.js command-line application. This application takes in in
   ## Table of Contents
 
 - [User-Story](#user-story)
--[Usage](#usage)
+- [Usage](#usage)
 - [Installation](#installation)
 - [License](#license)
 - [Contribute](#contribute)
