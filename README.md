@@ -7,6 +7,7 @@ This is a working Node.js command-line application. This application takes in in
   ## Table of Contents
 
 - [User-Story](#user-story)
+-[Usage](#usage)
 - [Installation](#installation)
 - [License](#license)
 - [Contribute](#contribute)
@@ -22,7 +23,7 @@ SO that a user have quick access to their emails and GitHub profiles.
 
 ## Usage
 
-If you run this application in the terminal it use inquirer package. By using the terminal you will answer a series of questions that generates the README file for any application based on the inputs.
+If you run this application in the terminal it use inquirer package. By using the terminal you have to give the informations about all the employees. Once you finished giving information it creates the HTML output file and you can style the file using stylesheet. 
 
 ## Installation
 
@@ -36,7 +37,7 @@ If you run this application in the terminal it use inquirer package. By using th
 
 ## Contribute
 
-😺 <a href="https://github.com/Sinthiya1/README-Generator-">Sinthiya</a>
+😺 <a href="https://github.com/Sinthiya1/Team-Profile-Generator">Sinthiya</a>
 
 ## Test
 
