@@ -2,7 +2,7 @@
 
 ## Description
 
-  This is an application that generates Readme file.
+This is a working Node.js command-line application. This application takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. This project demonstrates the use of OOP and TDD using Jest. 
   
   ## Table of Contents
 
