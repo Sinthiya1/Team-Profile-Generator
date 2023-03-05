@@ -14,12 +14,11 @@ This is a working Node.js command-line application. This application takes in in
 - [Questions](#questions)
 
 ## User Story
-
-`As a Manager 
-
-I want to generate a webpage that displays my team's basic info
-
-So that a user have quick access to their emails and GitHub profiles.`
+```text
+As a Manager 
+I WANT to generate a webpage that displays my team's `basic info`
+SO that a user have quick access to their emails and GitHub profiles.
+```
 
 ## Usage
 
