@@ -15,8 +15,9 @@ This is a working Node.js command-line application. This application takes in in
 
 ## User Story
 
-`As a manager a user want to generate a webpage that displays my team's basic info`
-`So that a user have quick access to their emails and GitHub profiles.`
+``As a Manager 
+`I want to generate a webpage that displays my team's basic info`
+`So that a user have quick access to their emails and GitHub profiles.``
 
 ## Usage
 
@@ -24,7 +25,7 @@ If you run this application in the terminal it use inquirer package. By using th
 
 ## Installation
 
-`npm init` \n
+`npm init`
 
 `npm install jest`
 
