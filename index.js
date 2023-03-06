@@ -49,6 +49,7 @@ inquirer.prompt([
                  'done',]
     },
 ])
+ // conditions that gives choices to create another new class for team informations
 .then((res)=>{
      const currentManager = new Manager(res.name, res.id, res.email, res.officeNumber)
      teamProfiles.push(currentManager);
@@ -103,6 +104,7 @@ function profileengineer(){
                     'done',]
         },
     ])
+// conditions that gives choices to create another new class for team informations
     .then((res)=>{
         const currentEngineer = new Engineer(res.name, res.id, res.email, res.github)
      teamProfiles.push(currentEngineer);
@@ -152,7 +154,7 @@ function profileintern(){
         },
         
     ])
-
+// conditions that gives choices to create another new class for team informations
     .then((res)=>{
         const currentIntern = new Intern(res.name, res.id, res.email, res.school)
      teamProfiles.push(currentIntern);
