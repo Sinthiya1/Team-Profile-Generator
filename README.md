@@ -24,7 +24,7 @@ SO that a user have quick access to their emails and GitHub profiles.
 
 ## Usage
 
-If you run this application in the terminal it use inquirer package. By using the terminal you have to give the informations about all the employees. Once you finished giving information it creates the HTML output file and you can style the file using stylesheet. 
+If you run this application in the terminal it use inquirer package. By using the terminal you have to give the informations about all the team members. Once you finished giving information it creates the HTML output file and you can style the file using stylesheet. 
 
 ## Installation
 
