@@ -12,6 +12,7 @@ This is a working Node.js command-line application. This application takes in in
 - [License](#license)
 - [Contribute](#contribute)
 - [Test](#test)
+- [Image](#image)
 - [Questions](#questions)
 
 ## User-Story
@@ -43,9 +44,9 @@ If you run this application in the terminal it use inquirer package. By using th
 
 `npm run test`
 
-## Mock Up
+## Image
 
-![alt text](./img/readme.png)
+![alt text](./image/profile.png)
 
 ## Questions
 
