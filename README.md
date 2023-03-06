@@ -42,3 +42,14 @@ If you run this application in the terminal it use inquirer package. By using th
 ## Test
 
 `npm run test`
+
+## Mock Up
+
+![alt text](./img/readme.png)
+
+## Questions
+
+If you have any questions contact me in the given information below:
+
+💌 [Email](mailto:sinthiya.islamjuly35@gmail.com) 💌
+
